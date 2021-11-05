@@ -30,6 +30,10 @@ namespace RadioServer
             services.AddDbContext<IdentityDbContext>(options =>
                 options.UseSqlite(
                     Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<RadioDbContext>(options =>
+                options.UseSqlite(
+                    Configuration.GetConnectionString("RadioDbConnection")));
+            services.AddDatabaseDeveloperPageExceptionFilter();
             services.AddDatabaseDeveloperPageExceptionFilter();
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)

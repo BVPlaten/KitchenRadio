@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using RadioServer.Models;
 
 namespace RadioServer.Data
 {
@@ -12,5 +13,14 @@ namespace RadioServer.Data
             : base(options)
         {
         }
+    }
+
+    public class RadioDbContext : DbContext
+    {
+        public RadioDbContext(DbContextOptions<RadioDbContext> options)
+            : base(options)
+        {
+        }
+        public DbSet<RadioServer.Models.RadioStations> RadioStations { get; set; }
     }
 }

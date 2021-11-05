@@ -1,0 +1,139 @@
+http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3                            # 1LIVE
+http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3                          # 1LIVE diggi
+http://wdr-1live-planb.icecast.wdr.de/wdr/1live/planb/mp3/128/stream.mp3                          # 1LIVE Plan B
+http://wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3                  # 1LIVE DJ Session
+http://wdr-1live-neufuerdensektor.icecast.wdr.de/wdr/1live/neufuerdensektor/mp3/128/stream.mp3    # 1LIVE Neu für den Sektor
+http://wdr-1live-hiphop.icecast.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3                        # 1LIVE HipHop
+http://wdr-1live-specials.icecast.wdr.de/wdr/1live/specials/mp3/128/stream.mp3                    # 1LIVE Specials
+http://www.wdr.de/wdrlive/media/1live_klubbing.m3u                                                # 1LIVE Klubbing
+http://www.wdr.de/wdrlive/media/1live_kassettendeck.m3u                                           # 1LIVE Kassettendeck
+http://wdr-1live-fiehe.icecast.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3                          # 1LIVE Fiehe
+http://www.wdr.de/wdrlive/media/1live_rocker.m3u                                                  # 1LIVE Rocker
+http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3                    # WDR 2 Rheinland
+http://wdr-wdr2-ostwestfalenlippe.icecast.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3    # WDR 2 Ostwestfalen
+http://wdr-wdr2-muensterland.icecast.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3              # WDR 2 Münsterland
+http://wdr-wdr2-ruhrgebiet.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3                  # WDR 2 Ruhrgebiet
+http://wdr-wdr2-bergischesland.icecast.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3          # WDR 2 Bergisches Land
+http://wdr-wdr2-suedwestfalen.icecast.wdr.de/wdr/wdr2/suedwestfalen/mp3/128/stream.mp3            # WDR 2 Südwestfalen
+http://wdr-wdr2-aachenundregion.icecast.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3        # WDR 2 Aachen
+http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3                              # WDR 3
+http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3                              # WDR 3 (HQ)
+http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3                              # WDR 4
+http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3                              # WDR 5
+http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3                          # KIRAKA
+http://wdr-wdr-event.icecast.wdr.de/wdr/wdr/event/mp3/128/stream.mp3                              # WDR Event
+http://wdr-vera-live.icecast.wdr.de/wdr/vera/live/mp3/128/stream.mp3                              # WDR Vera
+http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3                            # COSMO
+http://wdr-cosmo-alsautalarabi.icecast.wdr.de/wdr/cosmo/alsautalarabi/mp3/128/stream.mp3
+http://wdr-cosmo-bernamakurdikoelnradyosu.icecast.wdr.de/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3
+http://wdr-cosmo-ellinikorandevouradioforum.icecast.wdr.de/wdr/cosmo/ellinikorandevouradioforum/mp3/128/stream.mp3
+http://wdr-cosmo-estacionsurradiocolonia.icecast.wdr.de/wdr/cosmo/estacionsurradiocolonia/mp3/128/stream.mp3
+http://wdr-cosmo-bernamakurdikoelnradyosu.icecast.wdr.de/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3
+http://wdr-cosmo-porusskievent.icecast.wdr.de/wdr/cosmo/porusskievent/mp3/128/stream.mp3
+http://wdr-cosmo-ellinikorandevouradioforum.icecast.wdr.de/wdr/cosmo/ellinikorandevouradioforum/mp3/128/stream.mp3
+http://wdr-cosmo-selektor.icecast.wdr.de/wdr/cosmo/selektor/mp3/128/stream.mp3
+http://www.wdr.de/wdrlive/media/koelnradyosunet.m3u
+http://www.wdr.de/wdrlive/media/netradioforum.m3u 
+http://livestream.wueste-welle.de:8000/ogg.m3u
+https://liveradio.swr.de/sw282p3/swr1bw/play.mp3      ##  128 kbit/s     SWR1 Baden-Württemberg
+https://liveradio.swr.de/sw282p3/swr1rp/play.mp3      ##  128 kbit/s     SWR1 Rheinland-Pfalz
+https://liveradio.swr.de/sw282p3/swr2/play.mp3        ##  256 kbit/s     SWR2
+https://liveradio.swr.de/sw282p3/swr3/play.mp3        ##  128 kbit/s     SWR3
+https://liveradio.swr.de/sw282p3/swr4bw/play.mp3      ##  128 kbit/s     SWR4 Radio Stuttgart, Stuttgart
+https://liveradio.swr.de/sw282p3/swr4fn/play.mp3      ##  128 kbit/s     SWR4 Bodensee Radio, Friedrichshafen
+https://liveradio.swr.de/sw282p3/swr4fr/play.mp3      ##  128 kbit/s     SWR4 Radio Südbaden, Freiburg im Breisgau
+https://liveradio.swr.de/sw282p3/swr4hn/play.mp3      ##  128 kbit/s     SWR4 Franken Radio, Heilbronn
+https://liveradio.swr.de/sw282p3/swr4ka/play.mp3      ##  128 kbit/s     SWR4 Baden Radio, Karlsruhe
+https://liveradio.swr.de/sw282p3/swr4kl/play.mp3      ##  128 kbit/s     SWR4 Radio Kaiserslautern
+https://liveradio.swr.de/sw282p3/swr4ko/play.mp3      ##  128 kbit/s     SWR4 Radio Koblenz
+https://liveradio.swr.de/sw282p3/swr4lu/play.mp3      ##  128 kbit/s     SWR4 Radio Ludwigshafen
+https://liveradio.swr.de/sw282p3/swr4ma/play.mp3      ##  128 kbit/s     SWR4 Kurpfalz Radio, Mannheim
+https://liveradio.swr.de/sw282p3/swr4rp/play.mp3      ##  128 kbit/s     SWR4 Radio Mainz
+https://liveradio.swr.de/sw282p3/swr4tr/play.mp3      ##  128 kbit/s     SWR4 Radio Trier
+https://liveradio.swr.de/sw282p3/swr4tu/play.mp3      ##  128 kbit/s     SWR4 Radio Tübingen, Tübingen
+https://liveradio.swr.de/sw282p3/swr4ul/play.mp3      ##  128 kbit/s     SWR4 Schwaben Radio, Ulm
+https://liveradio.swr.de/sw282p3/swraktuell/play.mp3  ##  128 kbit/s     SWR Aktuell
+https://liveradio.swr.de/sw282p3/dasding/play.mp3     ##  128 kbit/s     DASDING
+http://streaming01.sr-online.de/sr1_2.m3u             # SR 1
+http://streaming02.sr-online.de/sr1like-o-mat.m3u     # SR 1 Like-O-Mat
+http://streaming02.sr-online.de/sr1lounge.m3u         # SR 1 Lounge
+http://streaming01.sr-online.de/sr2_2.m3u             # SR 2
+http://streaming02.sr-online.de/sr2offbeat.m3u        # SR 2 Offbeat
+http://streaming01.sr-online.de/sr3_2.m3u             # SR 3
+http://streaming02.sr-online.de/sr3oldiewelt.m3u      # SR 3 Oldiewelt
+http://streaming02.sr-online.de/sr3schlagerwelt.m3u   # SR 3 Schlagerwelt
+http://streaming01.sr-online.de/antennesaar_2.m3u     # Antenne Saar
+http://streaming01.sr-online.de/unserding_2.m3u       # Unser Ding
+http://streaming02.sr-online.de/unserding-schwarz.m3u # Unser Ding Schwarz
+http://streaming02.sr-online.de/unserding-zukunft.m3u # Unser Ding Zukunft
+http://antennebrandenburg.de/livemp3 # rbb Antenne Brandenburg (Oldies, Schlager, Pop)
+http://rbb888.de/livemp3             # rbb 88.8 Berlin (Pop, Oldies)
+http://fritz.de/livemp3              # rbb Fritz (Charts, HipHop, Dance)
+http://inforadio.de/livemp3          # rbb Inforadio (Nachrichten)
+http://rbbkultur.de/livemp3          # rbb Kultur (Kultur, Klassik)
+http://radioeins.de/livemp3          # rbb radioeins (Indie, Alternative)
+verkleinern
+http://radiohagen.cast.addradio.de/radiohagen/simulcast/high/stream.mp3 #107.7 Radio Hagen (Hagen) 192 kb/s mp3
+http://radiohagen.cast.addradio.de/radiohagen/simulcast/low/stream.aac #107.7 Radio Hagen (Hagen) 40-64 kb/s aac
+http://mp3.antenneac.c.nmdn.net/ps-antenneac/livestream.mp3 #Antenne AC (Städteregion Aachen) 128kb/s mp3
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-antennedus/livestream.mp3 #Antenne Düsseldorf (Düsseldorf) 128 kb/s mp3
+https://antennemuenster-ais-edge-400b-dus-dtag-cdn.cast.addradio.de/antennemuenster/live/mp3/high #Antenne Münster (Münster) 128 kb/s mp3
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-antennenr/livestream.mp3  #Antenne Niederrhein (Kreis Kleve)
+http://dd11422.kasserver.com:8010                                          #Antenne Unna (Kreis Unna) 110-128 kb/s mp3
+http://84.19.184.35:8000                                                   #Hellweg Radio (Kreis Soest)
+http://mp3.news894.c.nmdn.net/news894/livestream.mp3                       #NE-WS 89.4 (Kreis Neuss)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiomg/livestream.mp3    #Radio 90,1 Mönchengladbach
+http://lokalradiostream.de:8004                                            #Radio 91.2 (Dortmund) 128-192 kb/s mp3
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioberg/livestream.mp3  #Radio Berg (Rheinisch-Bergischer Kreis und Oberbergischer Kreis)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/radiobielefeld/livestream.mp3 #Radio Bielefeld(Bielefeld)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiobochum/livestream.mp3 #Radio Bochum (Bochum)
+http://stream.lokalradio.nrw/rbrs                                    #Radio Bonn/Rhein-Sieg (Bonn und Rhein-Sieg-Kreis)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioduisburg/livestream.mp3.m3u #Radio Duisburg (Duisburg)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioemscherlippe/livestream.mp3 #Radio Emscher-Lippe (Gelsenkirchen, Bottrop und Gladbeck)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioen/livestream.mp3    #Radio Ennepe Ruhr (Ennepe-Ruhr-Kreis)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioerft/livestream.mp3  #Radio Erft (Rhein-Erft-Kreis)
+http://edge.live.mp3.mdn.newmedia.nacamar.net:80/ps-radioessen/livestream.mp3 #Radio Essen (Essen)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioeuskirchen/livestream.mp3 #Radio Euskirchen (Kreis Euskirchen)
+http://www.radioguetersloh.de/worx/mobile/stream.m3u                       #Radio Gütersloh (Kreis Gütersloh)
+http://www.radioherford.de/worx/mobile/stream.m3u                          #Radio Herford (Kreis Herford)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioherne/livestream.mp3 #Radio Herne (Herne)
+http://www.radiohochstift.de/worx/mobile/stream.m3u                        #Radio Hochstift (Kreis Paderborn und Kreis Höxter)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiokw/livestream.mp3    #Radio K.W. (Kreis Wesel)
+http://server2.inparty-fm.de:8002                                          #Radio Kiepenkerl (Kreis Coesfeld)
+http://mp3.radiokoeln.c.nmdn.net/ps-radiokoeln/livestream.mp3              #Radio Köln (Köln)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioleverkusen/livestream.mp3 #Radio Leverkusen (Leverkusen)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiolippe/livestream.mp3 #Radio Lippe (Kreis Lippe)
+http://80.237.210.54:8000                                                  #Radio Lippewelle Hamm (Hamm)
+http://dd28838.kasserver.com:8000                                          #Radio MK (Märkischer Kreis)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiomuelheim/livestream.mp3 #Radio Mülheim (Mülheim an der Ruhr)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-neandertal/livestream.mp3 #Radio Neandertal (Kreis Mettmann)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiooberhausen/livestream.mp3 #Radio Oberhausen (Oberhausen)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiorsg/livestream.mp3   #Radio RSG (Remscheid und Solingen)
+https://radiorst-ais-edge-3003-fra-eco-cdn.cast.addradio.de/radiorst/live/mp3/high   #Radio RST (Kreis Steinfurt)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiorur/livestream.mp3   #Radio Rur (Kreis Düren)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiosauerland/livestream.mp3 #Radio Sauerland (Hochsauerlandkreis)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiosiegen/livestream.mp3 #Radio Siegen (Kreis Siegen-Wittgenstein)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiovest/livestream.mp3.m3u #Radio Vest (Kreis Recklinghausen, außer Gladbeck)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiowaf/livestream.mp3   #Radio WAF (Kreis Warendorf)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/m_radiowestfalica/livestream.mp3 #Radio Westfalica (Kreis Minden-Lübbecke)
+http://stream.radiowmw.de:8000/wmw128k                                     #Radio WMW (Kreis Borken)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/m_radiowuppertal/livestream.mp3 #Radio Wuppertal (Wuppertal)
+http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-wellenr/livestream.mp3    #Welle Niederrhein (Krefeld und Kreis Viersen)
+http://stream.radio-zusa.net:8000/zusa-hifi.ogg  #Radio ZuSa Hifi
+http://dl-ondemand.radiobremen.de/bremeneins.m3u    # Bremen Eins
+http://dl-ondemand.radiobremen.de/bremenzwei.m3u    # Bremen Zwei
+http://dl-ondemand.radiobremen.de/bremenvier.m3u    # Bremen Vier
+http://dl-ondemand.radiobremen.de/bremen_next.m3u   # Bremen Next
+http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3        # NDR 1 Niedersachsen (Oldies, Pop)
+http://icecast.ndr.de/ndr/ndr1radiomv/rostock/mp3/128/stream.mp3               # NDR 1 Radio MV (Oldies, Pop)
+http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3                    # NDR 90.3 Hamburg (Oldies, Pop)
+http://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3                # NDR 1 Welle Nord (Oldies, Pop)
+http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3                      # NDR 2 (Pop, Rock)
+http://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3                    # NDR Kultur (Klassik)
+http://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3                   # NDR Info (Nachrichten)
+http://icecast.ndr.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3               # NDR Info Spezial (Sondersendungen)
+http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3                         # N-JOY (Charts)
+http://icecast.ndr.de/ndr/ndrplus/live/mp3/128/stream.mp3                      # NDR Plus (Schlager)
+http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3                      # NDR Blue (Indie, Alternative)
+
+
